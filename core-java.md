@@ -1,3 +1,6 @@
+# Questions List
+1. [What are the types of Exceptions? Explain the hierarchy of Java Exception classes?](#q-what-are-the-types-of-exceptions-explain-the-hierarchy-of-java-exception-classes)
+
 ## Q. ***What are the types of Exceptions? Explain the hierarchy of Java Exception classes?***
 Exception is an error event that can happen during the execution of a program and disrupts its normal flow.
 
