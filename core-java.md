@@ -1,6 +1,6 @@
 # Questions List
 1. [What are the types of Exceptions? Explain the hierarchy of Java Exception classes?](#q-what-are-the-types-of-exceptions-explain-the-hierarchy-of-java-exception-classes)
-2. [How for loop works?]()
+2. [How for loop works?](https://github.com/arkumar2137/telephonic/blob/main/core-java/arrays/Arrays.java)
 
 
 ## Q. ***What are the types of Exceptions? Explain the hierarchy of Java Exception classes?***
