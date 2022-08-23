@@ -14,7 +14,7 @@ Exception is an error event that can happen during the execution of a program an
 **Hierarchy of Java Exception classes**   
 The java.lang.Throwable class is the root class of Java Exception hierarchy which is inherited by two subclasses: Exception and Error.
 
-<img src="assets/exception-hierarchy-in-java.png" alt="Java Exception" />
+<img src="../assets/exception-hierarchy-in-java.png" alt="Java Exception" />
 
 
 
