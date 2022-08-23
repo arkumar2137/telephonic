@@ -1,15 +1,13 @@
-# Telephonic
-
 ### Table of Contents
 
 * Fundamentals
-  * [Core Java](core-java.md)
-  * [Frequently Asked Qs](common-questions.md)
-  * [OOPs concepts](oops-concepts.md)
+  * [Core Java](md-files/core-java.md)
+  * [Frequently Asked Qs](md-files/common-questions.md)
+  * [OOPs concepts](md-files/oops-concepts.md)
 * Framework
-  * [Spring-boot](spring-boot.md) 
+  * [Spring-boot](md-files/spring-boot.md) 
 * Database
-  * [JPA](jpa.md)
-  * [Hibernate](hibernate.md)
-* [Microservices](microservices.md)
-* [Design Patterns](design-patterns.md)
+  * [JPA](md-files/jpa.md)
+  * [Hibernate](md-files/hibernate.md)
+* [Microservices](md-files/microservices.md)
+* [Design Patterns](md-files/design-patterns.md)
